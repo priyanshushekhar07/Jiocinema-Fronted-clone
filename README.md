@@ -10,4 +10,4 @@ Currently, two official plugins are available:
 =======
 # Jiocinema-clone
 i have created a JioClone frontend using React
->>>>>>> 5c30922a00f03f4159fb9ef4e75768cd29ed04b5
+
