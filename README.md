@@ -1,3 +1,3 @@
-# Jiocinema Fronted-clone
-i have created a JioClone frontend using React
+# Jiocinema Fronted-Clone
+I have created a JioClone frontend using React
 
