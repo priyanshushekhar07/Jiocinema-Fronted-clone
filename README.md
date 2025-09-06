@@ -33,4 +33,4 @@ A **modern and responsive JioCinema frontend clone** built using **React** and *
 </p>
 
 ---
->>>>>>> 2eec4a898327cf6814c7ee78b4fabde5e9ec9124
+
